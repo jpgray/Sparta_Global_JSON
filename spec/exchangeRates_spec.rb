@@ -1,4 +1,4 @@
-# require_relative "spec_helper"
+
 
 describe "Testing the exchange rates" do
   before (:all) do
